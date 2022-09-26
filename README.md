@@ -1,1 +1,1 @@
-# suckless-build
+#DWM WITH NO BAR BUILD 
